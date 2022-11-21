@@ -1,16 +1,11 @@
 ### Hi there 👋
 
 <!--
-**smmoran45/smmoran45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my master's in Library and Information Science, as well as my master's in History
+- 🌱 I’m currently learning Data and Digital Stewardship, DACS, Reparative Description
+- 👯 I’m looking to collaborate on online coursework
+- 📫 How to reach me: via email at sm4734@drexel.edu
+- 😄 Pronouns: He/they
 
-- 🔭 I’m currently working on ... My master's in Library and Information Science, as well as my master's in History
-- 🌱 I’m currently learning ... Data and Digital Stewardship, Archives
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... He/they
-- ⚡ Fun fact: ...
 -->
